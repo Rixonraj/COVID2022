@@ -1,0 +1,16 @@
+.covid{
+    height: 2560px;
+    width: 1440px;
+    text-decoration-color: antiquewhite;
+
+   
+}
+
+#divID{
+    color: antiquewhite;
+    text-align: center;
+    position: absolute;
+    top: 116px;
+    font-size: xx-large;
+    left: 774px;
+}
